@@ -1,5 +1,6 @@
 # RickMalware
 
+## Note for GitHub: Only use these files on your own machines. Using these files without consent of the victim is ILLEGAL.
 ### For a better GUI, I've uploaded this project to my GitHub at https://github.com/CrimsonW23/cits3006/tree/main/LabQuiz1
 
 ## How to run
@@ -20,3 +21,14 @@
    - <b>Windows:</b> `hacker.exe`
 6. Repeat steps 4-5 in your victim client with `victim`
 7. Enjoy
+
+## Description
+A simple "malware" function that prints any `.txt` files and the directory's content to the hacker's client. It also downloads the "malware" executable files from the Git repository, and runs them to show that the victim has been hacked. As a final touch, it launches a browser and plays "Never Gonna Give You Up" by Rick Astley.
+
+## Other Files
+### cross_malware.cpp
+The "malware" file provided in the labs. Modified by me to be suitable for both Windows and Linux.
+### linux_malware & win_malware.exe
+The compiled versions of cross_malware.cpp for their respective platforms. Uploaded in the GitHub repository for easy downloading.
+### Makefile
+The same makefile provided in the labs.
