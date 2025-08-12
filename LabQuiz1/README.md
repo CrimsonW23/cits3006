@@ -1,4 +1,4 @@
-# RickMalware
+# MalRick
 
 ## Note for GitHub: Only use these files on your own machines. Using these files without consent of the victim is ILLEGAL.
 ### For a better GUI, I've uploaded this project to my GitHub at https://github.com/CrimsonW23/cits3006/tree/main/LabQuiz1
