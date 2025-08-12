@@ -2,8 +2,10 @@
 
 ### For a better GUI, I've uploaded this project to my GitHub at https://github.com/CrimsonW23/cits3006/tree/main/LabQuiz1
 
-## Linux
-1. Find out your "hacker" client's IP using `ifconfig`.
+## How to run
+1. Find out your "hacker" client's IP
+   - <b>Linux:</b> `ifconfig`
+   - <b>Windows:</b> `ipconfig`
 2. In `victim.c`, edit the IP in line 26 to your hacker's IP.
 3. Compile the `hacker.c` and `victim.c` codes.
    - <b>Linux:</b> Open up a terminal and run `make`
@@ -16,5 +18,5 @@
 5. Run the `hacker` executable
    - <b>Linux:</b> `./hacker`
    - <b>Windows:</b> `hacker.exe`
-7. Repeat steps 4-5 in your victim client with `victim`
-8. Enjoy
+6. Repeat steps 4-5 in your victim client with `victim`
+7. Enjoy
