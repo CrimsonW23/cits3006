@@ -16,5 +16,5 @@
 5. Run the `hacker` executable
    - <b>Linux:</b> `./hacker`
    - <b>Windows:</b> `hacker.exe`
-7. Repeat in your victim client with `victim`
+7. Repeat steps 4-5 in your victim client with `victim`
 8. Enjoy
